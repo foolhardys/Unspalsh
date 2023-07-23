@@ -15,7 +15,7 @@ const { setSearchTerm } = useGlobalContext()
     return (
         <section>
             <h1 className='title'>
-                Unspalsh Images
+                RANDOM IMAGES
             </h1>
             <form className='search-form'  onSubmit={handleSubmit}>
                 <input
